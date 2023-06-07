@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "modified changes"
+git clone
+git config --global mail id
+git config --global user id
+git push
